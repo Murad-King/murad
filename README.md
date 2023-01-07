@@ -1,2 +1,0 @@
-# murad
-Free command 
